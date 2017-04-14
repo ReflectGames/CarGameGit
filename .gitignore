@@ -12,3 +12,4 @@ Saved
 *.xcworkspace
 Content/Map/Menu.umap
 Content/VehicleBP/Maps/VehicleExampleMap.umap
+Config/DefaultInput.ini
