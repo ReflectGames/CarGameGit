@@ -10,3 +10,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Map/Menu.umap
+Content/VehicleBP/Maps/VehicleExampleMap.umap
