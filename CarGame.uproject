@@ -8,6 +8,11 @@
 			"Name": "CarSim",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2d712649ca864c80812da7b5252f5608"
+		},
+		{
+			"Name": "BlueManVehicleAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d468c2dc687400f9c466ca418c8a1c1"
 		}
 	]
 }
