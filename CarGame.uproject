@@ -18,5 +18,11 @@
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HTML5",
+		"LinuxNoEditor",
+		"WindowsNoEditor"
 	]
 }
